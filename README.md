@@ -1,6 +1,6 @@
 # AMAZON CLONE
 
-Hi! I'm Debjit, a **MERN Stack Developer**. This is a clone of popular e-commmerce website **Amazon**.
+Hi! I'm Yashi Nigam, a **Full Stack Developer**. This is a clone of popular e-commmerce website **Amazon**.
 I have created it with **React** in frontend,  **Node and Express** for backend and **MongoDB** for storing data.
 <br>
 <br>
